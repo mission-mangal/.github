@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **We are from MaRS!!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mars-research-station/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mars-research-station/" height="30" width="40" /></a>
 <a href="https://instagram.com/mars_iiitdm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mars_iiitdm" height="30" width="40" /></a>
